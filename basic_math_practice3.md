@@ -17,10 +17,6 @@ Review the sample code below and let me know if you have any questions about how
 
 - [Python's string format method](https://www.geeksforgeeks.org/python-string-format-method/#)
 
-### Coding Practice
-
-- Add your code to a Python file named `main.py`
-- Upload your `main.py` file to a GitHub repo you created on the GitHub website
 
 ### Part 1
 
