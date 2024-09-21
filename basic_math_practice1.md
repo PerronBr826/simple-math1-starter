@@ -1,6 +1,5 @@
 ## Python: Basic Math
 
-- Create a new **PUBLIC online** GitHub repo called *basic_math* and add an empty `main.py` file to it
 - Write your script for this activity in `main.py`
 - Be prepared to discuss your code with your teacher during class 
 
